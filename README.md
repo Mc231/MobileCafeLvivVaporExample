@@ -1,23 +1,17 @@
-<p align="center">
-    <img src="https://cloud.githubusercontent.com/assets/1342803/24797159/52fb0d88-1b90-11e7-85a5-359fff0496a4.png" width="320" alt="MySQL">
-    <br>
-    <br>
-    <a href="http://beta.docs.vapor.codes/getting-started/hello-world/">
-        <img src="http://img.shields.io/badge/read_the-docs-92A8D1.svg" alt="Documentation">
-    </a>
-    <a href="http://vapor.team">
-        <img src="http://vapor.team/badge.svg" alt="Slack Team">
-    </a>
-    <a href="LICENSE">
-        <img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
-    </a>
-    <a href="https://circleci.com/gh/vapor/mysql">
-        <img src="https://circleci.com/gh/vapor/mysql.svg?style=shield" alt="Continuous Integration">
-    </a>
-    <a href="https://travis-ci.org/vapor/api-template">
-    	<img src="https://travis-ci.org/vapor/api-template.svg?branch=master" alt="Build Status">
-    </a>
-    <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/swift-3.1-brightgreen.svg" alt="Swift 3.1">
-    </a>
-</center>
+# VaporExample
+
+Example of code from Mobile Cafe from 01/03/2018
+
+# Usage
+
+1. Install Vapor ——— https://docs.vapor.codes/2.0/getting-started/install-on-macos/
+2. Got to project directory ——— in terminal type “cd/MobileCafeLvivPerfectExample”
+-------- MacOS
+3.1 Generate Xcode project ———  vapor xcode ("It can take for a while :)")
+3.1.1 Open generated project 
+3.1.2 Choose Run target
+3.1.3 Run project
+-------- Linux or Manual Build
+3.2 Build project ——— In terminal go to root project directory 
+3.2.1 Build project ——— In terminal type swift build
+3.2.2 Run project ——— In terminal type.build/debug/Run
