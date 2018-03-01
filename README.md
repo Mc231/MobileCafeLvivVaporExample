@@ -5,7 +5,7 @@ Example of code from Mobile Cafe from 01/03/2018
 # Usage
 
 1. <i>Install Vapor ——— </i> https://docs.vapor.codes/2.0/getting-started/install-on-macos/
-2. <i>Got to project directory ——— </i> in terminal type “cd/MobileCafeLvivPerfectExample”</br>
+2. <i>Got to project directory ——— </i> in terminal type “cd/MobileCafeLvivVaporExample”</br>
 <b>MacOS</b> </br>
 3.1 <i>Generate Xcode project ——— </i>  vapor xcode ("It can take for a while :)") </br>
 3.1.1 <i>Open generated project </i>  </br>
