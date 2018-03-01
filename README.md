@@ -9,7 +9,7 @@ Example of code from Mobile Cafe from 01/03/2018
 <b>MacOS</b> </br>
 3.1 <i>Generate Xcode project ——— </i>  vapor xcode ("It can take for a while :)") </br>
 3.1.1 <i>Open generated project </i>  </br>
-3.1.2 <i>Choose Run target</i> </br>
+3.1.2 <i>Choose Run <b>target</b> in targets</i> </br>
 3.1.3 <i>Run project</i> </br>
 <b> Linux or Manual Build </b> </br>
 3.2 <i> In terminal go to root project directory </i>  </br>
