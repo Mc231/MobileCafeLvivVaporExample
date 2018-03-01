@@ -13,5 +13,5 @@ Example of code from Mobile Cafe from 01/03/2018
 3.1.3 <i>Run project</i> </br>
 <b> Linux or Manual Build </b> </br>
 3.2 <i> In terminal go to root project directory </i>  </br>
-3.2.1 <i> Build project ——— </i>  In terminal type swift build </br>
-3.2.2 <i>Run project ——— </i>  In terminal type.build/debug/Run
+3.2.1 <i> Build project ——— </i>  In terminal type "swift build" </br>
+3.2.2 <i>Run project ——— </i>  In terminal type ".build/debug/Run"
